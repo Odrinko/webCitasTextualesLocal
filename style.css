@@ -1,0 +1,44 @@
+body{
+    background-color: #92e9fa;
+    font-family: agbalumo;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    overflow: hidden;
+}
+
+.contenedor{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    max-width: 80vh;
+    align-items: center;
+}
+
+    .cita{
+        display: flex;
+        justify-content: center;
+        padding: 10px;
+        max-width: 50vw;
+        font-size: 30px;
+        border: none;
+
+    }
+    .btn{
+        border: solid 2px #212121;
+        font-family: agbalumo;
+        width: 30%;
+        min-width: 80px;
+        height: 45px;
+        background: #74d4f5;
+        box-shadow: 4px 4px #92e9fa, 8px 8px #212121 ;
+        transition: all 300ms ease-in-out;
+        cursor: pointer;
+    }
+
+    .btn:hover{
+        background: #37a8eb;
+        box-shadow: 4px 4px #92e9fa, 8px 8px #212121, inset 0 0 0 28px #37a8eb;
+    }
