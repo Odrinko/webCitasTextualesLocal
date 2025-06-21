@@ -24,13 +24,13 @@ Para ejecutar este proyecto en tu máquina local, sigue estos pasos:
     Clona el repositorio:
     Bash
 
-git clone https://github.com/TuUsuario/generador-citas-inspiradoras.git
+git clone https://github.com/Odrinko/webCitasTextualesLocal.git
 
-(Asegúrate de reemplazar TuUsuario con tu nombre de usuario de GitHub y generador-citas-inspiradoras con el nombre real de tu repositorio).
+
 Navega al directorio del proyecto:
 Bash
 
-    cd generador-citas-inspiradoras
+    cd webCitasTextualesLocal
 
     Abre index.html en tu navegador: Puedes arrastrar y soltar el archivo index.html directamente en tu navegador, o usar una extensión como Live Server para VS Code para servirlo localmente y manejar la carga del JSON correctamente.
 
@@ -39,7 +39,7 @@ Bash
 Puedes ver una versión en vivo de este proyecto aquí:
 
 ¡Haz clic aquí para ver el Generador de Citas en vivo!
-(https://github.com/Odrinko/webCitasTextualesLocal)
+(https://odrinko.github.io/webCitasTextualesLocal/)
 💡 Aprendizajes Clave
 
 Durante el desarrollo de este proyecto, he consolidado y practicado los siguientes conceptos:
